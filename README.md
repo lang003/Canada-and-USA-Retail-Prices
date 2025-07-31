@@ -1,2 +1,11 @@
-# Canada-and-USA-Retail-Prices
-For Fruits and Veggies
+# Canada-and-USA-Retail-Prices For Fruits and Veggies
+This project/ dashboards shows a comparision retail cost of fruits and vegetable  between USA and Canada on averge in 2022.
+Link: https://public.tableau.com/app/profile/lan.ge1988/viz/canadavsusa/Dashboard2
+
+# Technique and Notes: 
+Use SAS or R Studio to clean and merge all the CSVs
+not all products will be shown once merged
+One Gram is equal to One Milliliters for solid and liquid conversions
+Canada's csv will need additional cleaning due to their inconsistent measurements and their monthly cost per product in 2022
+The USD conversion in Canadian Dollars is 1 USD= 1.30 Candian Dollar on average for 2022
+  Thank you!
